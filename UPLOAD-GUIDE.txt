@@ -1,0 +1,42 @@
+VALENTINE WEBSITE — FIXED FILES
+
+UPLOAD THESE FILES TO THE ROOT OF YOUR GITHUB REPOSITORY
+Extract the ZIP first, open the birthday-site-fixed folder, and upload the files
+inside it (not the outer folder) directly into the repository root.
+
+- index.html          (new GitHub Pages homepage)
+- main.html           (compatibility redirect to index.html)
+- main.css
+- main.js
+- edits.html
+- lovefilm.html
+- surprise.html
+
+IMPORTANT ASSET LOCATIONS
+The website code is prepared for these asset paths. Add the actual files later:
+
+Repository root:
+- memory1.jpg
+- memory2.jpg
+- memory3.jpg
+- memory4.jpg
+- song.mp3
+
+Create a folder named "videos" in the repository root:
+- videos/edit1.mp4
+- videos/edit2.mp4
+- ...
+- videos/edit70.mp4
+
+Keep the video names exactly as shown (edit1.mp4 through edit70.mp4).
+File names and folder names are case-sensitive on GitHub Pages.
+
+DEPLOYMENT STEPS
+1. Open the GitHub repository on the main branch.
+2. Upload/replace the seven website files listed above in the repository root.
+3. Make sure index.html is in the repository root, not inside another folder.
+4. Commit the changes to the main branch.
+5. In GitHub, open Settings > Pages and confirm deployment is configured from the main branch and /(root).
+6. Open the website root URL. If the old version appears, refresh after GitHub Pages finishes deploying or clear the browser cache.
+
+The ZIP intentionally does not contain the photos, song or 70 videos because they were not part of the files supplied for this repair.
